@@ -1,0 +1,22 @@
+# The profile's words for `smo readme profile`. Only the hero, two glyphs, the divider and
+# the logo are used: the panel would read this repo's own numbers, so it stays out
+# (.gitignore).
+
+name = "smol indie dev"
+tagline = "rust · games · tools · ai agents"
+status = "open to work"
+status_role = "ok"
+footer = "smol"
+slogan = "SMOL CODE, BIG FUN"
+
+# The light hero sits on the site's warm paper: its light tokens, the dash's darker
+# border.
+[light]
+paper = "#e6e1d6"
+surface = "#efebe2"
+ink = "#141414"
+dim = "#4d4d4d"
+border = "#6b655b"
+ok = "#365f08"
+warn = "#764c00"
+info = "#005570"
