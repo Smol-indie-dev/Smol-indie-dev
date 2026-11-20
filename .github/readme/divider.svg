@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="8" viewBox="0 0 880 8" shape-rendering="crispEdges" role="img">
 <title>divider</title>
+<!-- smo readme art 1 -->
 <style>
 .pk { animation: flow 6s steps(470) infinite; }
 @keyframes flow { from { transform: translateX(-940px); } to { transform: translateX(0); } }
