@@ -1,10 +1,9 @@
-# The profile's words for `smo readme profile`. Only the hero, two glyphs, the divider and
-# the logo are used: the panel would read this repo's own numbers, so it stays out
-# (.gitignore).
+# The profile's words for the README's art. Only the hero, the divider and the logo are
+# used: the panel would read this repo's own numbers, so it stays out (.gitignore).
 
 name = "smol indie dev"
-tagline = "rust · games · tools · ai agents"
-status = "open to work"
+tagline = "small games · videos · music"
+status = "indie dev"
 status_role = "ok"
 footer = "smol"
 slogan = "SMOL CODE, BIG FUN"
